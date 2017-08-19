@@ -67,6 +67,7 @@
                     <td>
                         <a href="editform.php" class="btn btn-success" role="button">Edit Book</a>
                         <a href="#" class="btn btn-danger" role="button">Delete Book</a>
+<a href="#" class="btn btn-primary" role="button">Add Book</a>
                     </td>
                 </tr>
                 </tbody>
